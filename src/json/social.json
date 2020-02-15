@@ -1,0 +1,29 @@
+[
+    {
+        "facebook": {
+            "imageUrl": "https://image.flaticon.com/icons/svg/174/174848.svg",
+            "name": "Facebook",
+            "href": "https://www.facebook.com/"
+        },
+        "instagram": {
+            "imageUrl": "https://image.flaticon.com/icons/svg/174/174855.svg",
+            "name": "Instagram",
+            "href": "https://www.instagram.com/nikich_w/"
+        },
+        "whatsApp": {
+            "imageUrl": "https://image.flaticon.com/icons/svg/174/174879.svg",
+            "name": "WhatsApp",
+            "href": "https://www.whatsapp.com/"
+        },
+        "skype": {
+            "imageUrl": "https://image.flaticon.com/icons/svg/174/174869.svg",
+            "name": "Skype",
+            "href": "https://www.skype.com/ru/"
+        },
+        "google": {
+            "imageUrl": "https://image.flaticon.com/icons/svg/174/174851.svg",
+            "name": "Google+",
+            "href": "https://support.google.com/"
+        }
+    }
+]

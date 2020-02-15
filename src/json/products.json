@@ -1,0 +1,29 @@
+[
+            {
+                "name": "Ноутбук Apple MacBook Pro 13d Touch Bar 2019",
+                "catId": "1",
+                "catName": "PC",
+                "status": "sale",
+                "price": "2500$",
+                "imgUrl": "https://content2.onliner.by/catalog/device/main@2/d2af9bc8e9d4c70baaea315a09d0e904.jpeg",
+                "description": "13.3d 2560 x 1600 IPS, Intel Core i5 8279U 2400 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серебристый"
+            },
+            {
+                "name": "Моноблок Apple iMac Pro",
+                "catId": "2",
+                "catName": "Моноблок Apple iMac Pro MQ2Y2",
+                "status": "sale",
+                "price": "7500$",
+                "imgUrl": "https://content2.onliner.by/catalog/device/main@2/1d294295b97d72d592e8f65a34d7aaa0.jpeg",
+                "description": "27d 5120 x 2880, глянцевый 3200 МГц, 32 ГБ, SSD 1024 ГБ, Mac OS, цвет темно-серый"
+            },
+            {
+                "name": "Компактный компьютер Apple Mac mini",
+                "catId": "3",
+                "catName": "Компактный компьютер Apple Mac mini (MGEM2)",
+                "status": "sale",
+                "price": "450$",
+                "imgUrl": "https://content2.onliner.by/catalog/device/main@2/2b8d1ac7e040c39169b1774e289bb108.jpg",
+                "description": "домашний/офисный, CPU Intel Core i5 4260U 1400 МГц, RAM LPDDR3 4 ГБ, HDD 500 ГБ, графика: встроенная в процессор"
+            }
+]
