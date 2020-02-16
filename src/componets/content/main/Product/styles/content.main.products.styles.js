@@ -34,6 +34,7 @@ export const aboutProduct = styled.div `
     }
     p {
         margin-top: 10px;
+        color: rgb(51, 51, 51);
     }
 `;
 
