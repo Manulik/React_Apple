@@ -15,11 +15,20 @@
         "status": "sale",
         "price": "4100$",
         "imgUrl": "https://content2.onliner.by/catalog/device/main@2/49c6c6204747d5b63b011e4d5e7f317e.jpeg",
+        "description": "16.0d 3072x1920 IPS, Intel Core i9 9880H 2300 МГц, 16 ГБ, SSD 1024 ГБ, граф. адаптер: AMD Radeon Pro 5500M 4ГБ, Mac OS, цвет крышки серый"
+    },
+    {
+        "name": "Ноутбук Apple MacBook Pro 16d 2019",
+        "catId": "3",
+        "catName": "Ноутбук Apple MacBook Pro 16d 2019 MVVK2",
+        "status": "sale",
+        "price": "4200$",
+        "imgUrl": "https://content2.onliner.by/catalog/device/main@2/db499f52fa0d4b9c31fd30231359b4c1.jpeg",
         "description": "15.4d 2880 x 1800 IPS, Intel Core i9 9880H 2300 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: AMD Radeon Pro 560X 4 ГБ, Mac OS, цвет крышки серый"
     },
     {
         "name": "Моноблок Apple iMac Pro",
-        "catId": "3",
+        "catId": "4",
         "catName": "Моноблок Apple iMac Pro MQ2Y2",
         "status": "sale",
         "price": "7500$",
@@ -28,7 +37,7 @@
     },
     {
         "name": "Моноблок Apple iMac 27d Retina 5K",
-        "catId": "4",
+        "catId": "5",
         "catName": "Моноблок Apple iMac 27d Retina 5K MRR12",
         "status": "sale",
         "price": "3000$",
@@ -37,7 +46,7 @@
     },
     {
         "name": "Компактный компьютер Apple Mac mini",
-        "catId": "5",
+        "catId": "6",
         "catName": "Компактный компьютер Apple Mac mini (MGEM2)",
         "status": "sale",
         "price": "450$",
