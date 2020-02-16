@@ -1,7 +1,7 @@
 import React from 'react';
 import * as S from './styles/footer.styles';
 import Contacts from './contacts/contacts';
-import social from '../../json/social';
+import social from '../../../json/social';
 
 export default function Footer(props) {
     return (

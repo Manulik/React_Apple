@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "./../header/index";
 import Content from "./../content/index";
-import Footer from "./../footer/index";
+import Footer from "../content/footer/index";
 import '../../styles/style.css';
 import menu from '../../json/menu.json';
 export default function App() {
