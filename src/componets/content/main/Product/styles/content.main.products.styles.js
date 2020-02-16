@@ -54,7 +54,6 @@ export const buttonWrapper = styled.div `
         height: 30px;
         background: rgb(238, 119, 0);
         border: none;
-        color: white;
         cursor: pointer;
         border-radius: 3px;
         font-size: 15px;
@@ -62,6 +61,11 @@ export const buttonWrapper = styled.div `
         :hover {
             background: #cf5d21;
             transition: .5s;
+        }
+        color: white;
+        outline: none;
+        :active {
+            background: black;
         }
     }
 `;

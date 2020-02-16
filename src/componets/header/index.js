@@ -5,10 +5,11 @@ export default function Header(props) {
 
                     {props.items.map((item, i) => 
                     <div>
-                        <S.A key={i}>{item.home}</S.A>
-                        <S.A key={i}>{item.blog}</S.A>
-                        <S.A key={i}>{item.about}</S.A>
-                        <S.A key={i}>{item.contacts}</S.A>
+                        <S.A href="#" key={i}><img key={i} src={item.logo} alt={"Logo"}/></S.A>
+                        <S.A href="#" key={i}>{item.home}</S.A>
+                        <S.A href="#" key={i}>{item.blog}</S.A>
+                        <S.A href="#" key={i}>{item.about}</S.A>
+                        <S.A href="#" key={i}>{item.contacts}</S.A>
                     </div>
                 )}
     </S.Header>)

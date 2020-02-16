@@ -22,7 +22,7 @@ function Product(props) {
                             <p>{product.price}</p>
                         </S.Price>
                         <S.buttonWrapper>
-                            <button>Купить</button>
+                            <a href="#"><button>Купить</button></a>
                         </S.buttonWrapper>
                     </S.Product>
                 )}

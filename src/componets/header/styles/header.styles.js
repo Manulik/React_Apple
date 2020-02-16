@@ -12,6 +12,16 @@ export const Header = styled.header `
     div {
         display: flex;
         justify-content: space-evenly;
+        img {
+            width: 25px;
+            margin: 0;
+            padding: 0;
+            :hover {
+                cursor: pointer;
+            }
+            position: relative;
+            bottom: 5px;
+        }
     }
 `
 

@@ -7,6 +7,7 @@ export const Footer = styled.footer `
     position: absolute;
     text-align: center;
     padding-top: 20px;
+    margin-top: 50px;
     h4 {
         color: white;
         font-size: 25px;

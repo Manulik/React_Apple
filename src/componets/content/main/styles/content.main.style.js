@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Main = styled.div `
     width: 80%;
-    height: 1300px;
+    min-height: 1300px;
     position: relative;
     left: 20%;
     background: #eeeeee;
